@@ -1,0 +1,214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"coment\tcomentario"
+			],
+			[
+				"bd",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/pizzeria_new/wp-content/themes/pizza_cero"
+	],
+	"file_history":
+	[
+		"/C/Users/blessmen/Dropbox/BASE PROYECTOS/CHULETAS/WOOCOMMERCE/wc_basico.php",
+		"/C/xampp/htdocs/pizzeria_new/wp-content/themes/child/js/custom/custom1.js",
+		"/C/xampp/htdocs/pizzeria_new/wp-content/themes/child/style.css",
+		"/C/xampp/htdocs/pizzeria_new/wp-content/themes/pizzeria-new/gulpfile.js",
+		"/C/xampp/htdocs/pizzeria_new/wp-content/themes/pizzeria-new/package.json",
+		"/C/xampp/htdocs/pizzeria_new/wp-config.php",
+		"/C/Users/blessmen/.ssh/id_rsa.pub",
+		"/C/Users/blessmen/}.pub",
+		"/C/Users/blessmen/Downloads/install.php",
+		"/C/Users/blessmen/Downloads/quickstart.sql",
+		"/E/1A/COTIZACIONES/OCTUBRE/cielo-parranda vallenata/datos.txt",
+		"/E/1A/COTIZACIONES/OCTUBRE/elenith-tienda perrfumes/datos.txt",
+		"/E/1A/PROYECTOS/LIPUR/datos_host_lipur.txt",
+		"/E/1A/PROYECTOS/CASAGAS/datos.txt",
+		"/E/1A/DATOS.txt",
+		"/F/ALL FOR FORMAT 2016/TUNEUP/PC.TuneUp.2016.v16.62.2.46691.WIN64.Incl.Keygen-REPT/Instrucciones.txt",
+		"/C/cygwin64/home/blessmen/.bash_profile",
+		"/C/Users/blessmen/Dropbox/BASE PROYECTOS/CHULETAS/chuletas.php",
+		"/E/1A/PROYECTOS/MARIACHI BLANCO/ideas contenido.txt",
+		"/F/Documents/godaddy.txt",
+		"/E/1A/PROYECTOS/ESVECOREAL/datos.txt",
+		"/C/xampp/htdocs/mariachi/wp-config.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/mariachi/wp-content/themes/aqura/style.css",
+		"/C/Users/blessmen/Dropbox/BASE PROYECTOS/CHULETAS/codigosUtiles.php",
+		"/C/xampp/htdocs/mariachi/wp-content/themes/aqura/functions.php",
+		"/E/1A/PROYECTOS/MARIACHI BLANCO/dominios_blanco.txt",
+		"/D/CURSOS 2017/VIDEO/AFTER EFFECTS/MEGACURSO AFTER FFECTS/Información del archivo.txt",
+		"/E/1A/PROYECTOS/LIPUR/datos_cliente.txt",
+		"/D/ALL FOR FORMAT 2016/ANTIVIRUS/ANTIVIRUS/AVAST/AVAST 5.0.418/Instalacion.txt"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pizza_cero.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
