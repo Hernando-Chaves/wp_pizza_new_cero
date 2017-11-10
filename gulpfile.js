@@ -21,7 +21,7 @@ var onError = function(err)
 }
 
  gulp.task('sass', function() {
-  return gulp.src('./scss/**/*.scss')
+  return gulp.src('./scss/style.scss')
     .pipe(plumber({errorHandler:onError}))
     .pipe(sourcemaps.init())
     .pipe(sass())

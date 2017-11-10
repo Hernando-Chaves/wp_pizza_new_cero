@@ -1,9 +1,9 @@
-/*
-Theme Name: PIZZERIA DESDE CERO
+@charset "UTF-8";/*!
+Theme Name: PIZZA CERO
 Theme URI: http://hernando-chaves.com
-Author: Hernando J Chaves
-Author URI: http://hernando-chaves.org/
-Description: Tema de practica para el curso de udemy en la creación de temas desde cero con  wordpress.
+Author: the WordPress team
+Author URI: http://hernando-chaves.com
+Description: Tema de practica para la creación  de temas en wordpress desde cero.
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
@@ -11,4 +11,5 @@ Text Domain: twentythirteen
 
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
-*/
+*/html{-webkit-box-sizing:border-box;box-sizing:border-box}*,::after,::before{-webkit-box-sizing:inherit;box-sizing:inherit}.contenedor{max-width:1100px;width:100%;margin:0 auto}.current-menu-item{border-bottom:2px solid #e4a460}h1,h2,h3,h4,h5,h6{color:#e4a460}header.encabezado-sitio{border-bottom:1px solid #c1c1c1}header.encabezado-sitio .logo{text-align:center}header.encabezado-sitio .logotipo{width:250px}@media only screen and (min-width:768px){header.encabezado-sitio .contenedor{position:relative}header.encabezado-sitio .informacion-encabezado{position:absolute;top:0;right:0}}header.encabezado-sitio #container_social #menu_social{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;text-align:center;padding:0}header.encabezado-sitio #container_social #menu_social .sr-text{display:none}header.encabezado-sitio #container_social #menu_social li{padding:2px;list-style:none;-webkit-transition:all 1s ease;transition:all 1s ease;position:relative}header.encabezado-sitio #container_social #menu_social li:hover{bottom:3px}header.encabezado-sitio #container_social #menu_social li a{text-decoration:none}header.encabezado-sitio #container_social #menu_social li a:before{content:'\f08e';font-size:20px;font-family:FontAwesome;display:inline-block;vertical-align:top;padding:0;color:#212123}header.encabezado-sitio #container_social #menu_social li a[href*='facebook.com']::before{content:'\f082'}header.encabezado-sitio #container_social #menu_social li a[href*='twitter.com']::before{content:'\f081'}header.encabezado-sitio #container_social #menu_social li a[href*='youtube.com']::before{content:'\f166'}header.encabezado-sitio #container_social #menu_social li a[href*='instagram.com']::before{content:'\f16d'}header.encabezado-sitio #container_social #menu_social li a[href*='pinterest.com']::before{content:'\f0d3'}header.encabezado-sitio .direccion p{text-align:center}@media only screen and (min-width:768px){header.encabezado-sitio .direccion p{text-align:right}}#menu-principal .menu_header{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-pack:distribute;justify-content:space-around;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;text-align:center;padding:0;margin:0}#menu-principal .menu_header li{list-style:none;background-color:#306a23;cursor:pointer;width:100%;padding:5px 0}#menu-principal .menu_header li:hover{background-color:#27571d;border-bottom:2px solid #e4a460}#menu-principal .menu_header li a{text-decoration:none;color:#f0f3f6}@media only screen and (min-width:768px){#menu-principal .menu_header{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal!important;-webkit-box-direction:normal!important;-ms-flex-direction:row!important;flex-direction:row!important;-ms-flex-pack:distribute;justify-content:space-around}}#menu-principal .mobile-menu a{text-transform:uppercase;font-size:.8rem}@media only screen and (max-width:767px){#menu-principal .mobile-menu a{text-align:center;color:#f0f3f6;background-color:#306a23;display:block;padding:5px 0}}@media only screen and (min-width:768px){#menu-principal .mobile-menu a{display:none}}
+/*# sourceMappingURL=style.css.map */
