@@ -23,9 +23,48 @@ Use it to make something cool, have fun, and share what you've learned with othe
 @import 'site/galeria';
 @import 'site/inicio';
 @import 'site/menu';
-@import 'site/nosotros';
 @import 'site/generales';
 @import 'site/header';
+@import 'site/footer';
+@import 'site/nosotros';
 
 
 
+
+// CAJAS
+.informacion-cajas {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 3rem;
+	@include tablet {
+		display: flex;
+		flex-direction: row!important;
+	}
+	& > div {
+		text-align: center;
+		&:nth-child(1) {
+			background-color: $rojo;
+		}
+		&:nth-child(2) {
+			background-color: $verde;
+		}
+		&:nth-child(3) {
+			background-color: $amarillo;
+		}
+		@include tablet {
+			width: 33.3%!important;
+		}
+	}
+
+	.caja {
+		color: $blanco;
+		.contenido-caja {
+			padding: 50px;
+			h3 {
+				color: $titulos-cajas;
+			}
+		}
+		
+	}
+	
+}
